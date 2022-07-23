@@ -14,6 +14,6 @@ This project is a daily planner that dynamically changed according to the time o
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Webpage for PasswordGenerator-AC](Screenshot.mov)
+![Webpage for Workdayscheduler-AC](Screenshot.jpg)
 
 Website URL: https://acorbridg.github.io/WorkDayScheduler_AC/
